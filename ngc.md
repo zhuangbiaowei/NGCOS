@@ -9,7 +9,7 @@ Please enter your email:
 > zbw@163.com
 Please read your email, and enter the number:
 > 123456
-Welcome to register, please read new email, and save the passwod.
+Welcome to register, please read new email, and save the password.
 
 Hello, Please choice number:
 1. Register
